@@ -39,8 +39,12 @@ img {
   color: #4d5ae5;
 }
 
-.logo-span, .footer-logo-span {
+.logo-span {
   color: #2e2f42;
+}
+
+.footer-logo-span {
+  color: #f4f4fd; 
 }
 
 .nav-link {
@@ -70,6 +74,10 @@ img {
 .contact-link:hover,
 .contact-link:focus {
   color: #404bbf;
+}
+
+.hero-section{
+    background-color: #2e2f42;
 }
 
 .hero-title {
